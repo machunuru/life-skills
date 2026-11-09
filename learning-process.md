@@ -29,4 +29,4 @@ The most interesting idea for me was the Pomodoro Technique. It involves setting
 2. Follow the Pomodoro Technique by studying for 25 minutes and taking short breaks between sessions.
 3. Keep my mobile phone on silent mode during study sessions.
 4. Break new topics into smaller parts and practise each part thoroughly.
-5. Use the Feynman Technique to understand concepts better by explaining them in simple words.
+5. Use the Feynman Technique to understand concepts better by explaining them in simple words
